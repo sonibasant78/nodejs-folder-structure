@@ -1,0 +1,43 @@
+body{
+    background-color: skyblue;
+}
+
+h1{
+    margin-left: 530px;
+}
+.container-fluid{
+    margin-left: 60px;
+}
+.form-container{
+    height: 600px;
+    width: 300px;
+    display: block;
+    margin-left: 550px;
+}
+.form-content{
+    border: 1px solid;
+    margin-top: 5px;
+    display: flex;
+}
+#dropdown{
+    height: 20px;
+    position: relative;
+    margin-top: 20px;
+    display: flex;
+    margin-left: 80px;
+}
+#r{
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 116px;
+}
+#dropdown_t{
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+#d{
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 110px;
+}

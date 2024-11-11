@@ -1,0 +1,40 @@
+#courses{
+    height: 50px;
+    width: 200px;
+    background-color: yellow;
+}
+
+body{
+    background-color: skyblue;
+}
+
+h1{
+    margin-left: 530px;
+}
+.container-fluid{
+    margin-left: 60px;
+}
+.form-container{
+    height: 600px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 550px;
+}
+.form-content{
+    border: 1px solid;
+    margin-top: 5px;
+    display: flex;
+}
+#dropdown{
+    width: 300px;
+    margin-top: 5px;
+}
+.btn{
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+#d{
+   height: 15px;
+}
